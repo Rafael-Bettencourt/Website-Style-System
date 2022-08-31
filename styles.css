@@ -1,0 +1,128 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    margin: 0 5%;
+    background-image: url("https://w0.peakpx.com/wallpaper/42/102/HD-wallpaper-line-background-bright-stripes-widescreen.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  .title {
+    margin: 40px auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    font-size: 4em;
+    text-align: center;
+    color: #ffffff;
+  }
+
+  .container {
+    border: 2px solid darkgrey; 
+    padding: 10px;
+    margin: 10px auto;
+    background: linear-gradient(90deg, #00ffff 0%, #f0ffff 40%, #8a2be2 60%, #dc143c 100%);
+  }
+
+
+  .color-container {
+    width: 100%;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .aqua {
+    background-color: #00ffff;
+    color: black;
+    border: 1px solid black;
+  }
+  
+  .azure {
+    background-color: #f0ffff;
+    color: #000;
+    border: 1px solid black;
+  }
+  
+  .crimson {
+    background-color: #dc143c;
+    color: #ffffff;
+    border: 1px solid black;
+  }
+  
+  .blueviolet {
+    background-color:#8a2be2;
+    color: #ffffff;
+    border: 1px solid black;
+  }
+  
+  .font-panel {
+    width: 40%;
+    display: inline-block;
+    color: black;
+  }
+  
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  
+  .regular {
+    font-style: normal;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .roboto-mono {
+    font-family: 'Roboto Mono', monospace;
+  }
+  
+  .open-sans {
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  
+  .lato{
+    font-family: 'Lato', sans-serif;
+
+  }
+  
+  .text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Roboto Mono', monospace;
+    color: black;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    color: black;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    color: black;
+  }
+
+  .text-panel {
+   color: black;
+  }
+
+  h2 {
+    color: black;
+  }
